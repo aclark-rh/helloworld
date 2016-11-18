@@ -157,7 +157,8 @@
                 <artifacts>
                   <artifact>
                     <file>target/classes/test.file</file>
-                    <type>file</type>
+                    <type>json</type>
+                    <classifier>kubernetes-build</classifier>
                   </artifact>
                 </artifacts>
               </configuration>
