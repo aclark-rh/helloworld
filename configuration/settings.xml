@@ -10,11 +10,6 @@
   </mirrors>
   <servers>
     <server>
-      <id>index.docker.io</id>
-      <username>adamclark</username>
-      <password>sonicsid</password>
-    </server>
-    <server>
       <id>artifactory</id>
       <username>admin</username>
       <password>password</password>
